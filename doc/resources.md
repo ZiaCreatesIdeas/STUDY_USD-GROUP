@@ -47,6 +47,8 @@ As demo'd with chess assets.
 
 ##### Exercises and DLI Courses
 
+- [USD Playground](https://wiki.aswf.io/display/WGUSD/USD+Playground)
+
 - [Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/)
 
 - [Fundamentals of Universal Scene Description | Jen and Mati, GTC March 2023](https://courses.nvidia.com/courses/course-v1:DLI+X-OV-14+V1/course/)
