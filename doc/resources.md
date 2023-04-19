@@ -16,6 +16,11 @@ Nvidia USD Resources: [USD, Hydra Resources](https://developer.nvidia.com/usd#re
 
 Mati's Github: [Mati's GitHub](https://github.com/matiascodesal/awesome-usd)
 
+**Animal Logic**
+[USDBook](https://remedy-entertainment.github.io/USDBook/)
+[LIVRPS](https://remedy-entertainment.github.io/USDBook/terminology/LIVRPS.html)
+[Composition Arcs](https://remedy-entertainment.github.io/USDBook/terminology/composition_arcs.html)
+
 ---
 
 ##### Videos

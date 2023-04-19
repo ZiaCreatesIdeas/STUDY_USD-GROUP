@@ -9,11 +9,28 @@ Omniverse USD Study Group
 
 The USD Study Group is born of an interest of a variety of individuals to learn USD on an individual level in order to collaborate, learn and share knowledge.
 
-Google Sheet with our group [info](https://docs.google.com/spreadsheets/d/1864ILbgnNiBW2AABcraYibo0phcBrJ1DKWsEvqaklDI/edit?usp=sharing)
+`Nandu's Google Sheet for the group <https://docs.google.com/spreadsheets/d/1864ILbgnNiBW2AABcraYibo0phcBrJ1DKWsEvqaklDI/edit?usp=sharing>`_
+
+================================================================================
 
 HOMEWORK
 ========
 
+04/25/23
+========
+
+| Please consider the links below and prepare to ask questions about the material during the meet up.
+
+`USDBook <https://remedy-entertainment.github.io/USDBook/>`_
+
+`LIVRPS <https://remedy-entertainment.github.io/USDBook/terminology/LIVRPS.html>`_
+
+`Composition Arcs <https://remedy-entertainment.github.io/USDBook/terminology/composition_arcs.html>`_
+
+================================================================================
+
+
+Table of contents:
 
 .. toctree::
    :maxdepth: 2
