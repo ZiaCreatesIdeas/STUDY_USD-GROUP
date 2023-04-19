@@ -12,6 +12,8 @@ Open USD Glossary of Terms:
 SideFx (Houdini) Definitions: 
 **[SideFX, Houdini, USD Basics](https://www.sidefx.com/docs/houdini/solaris/usd.html)**
 
+Nvidia USD Resources: [USD, Hydra Resources](https://developer.nvidia.com/usd#resources)
+
 
 ---
 
@@ -41,6 +43,11 @@ As demo'd with chess assets.
 
 ---
 
+<iframe src="https://player.vimeo.com/video/211022588?h=7d42dc5bbc" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/211022588">USD: Building Asset Pipelines</a> from <a href="https://vimeo.com/user14728591"> Matt Kuruc | Pixar Graphics, ~1997 </a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+---
+
 **Nvidia DLI Teaching Kits**: [Omniverse USD Data Modeling | Aaron Luk | Nvidia GTC, Feb 2023](https://www.nvidia.com/en-us/on-demand/session/dliteachingkit-dlitk1017/)
 
 ---
@@ -53,8 +60,19 @@ As demo'd with chess assets.
 
 - [Fundamentals of Universal Scene Description | Jen and Mati, GTC March 2023](https://courses.nvidia.com/courses/course-v1:DLI+X-OV-14+V1/course/)
 
+---
+
+#### Utilities  
+[Isaac Unit Converter](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/ext_omni_isaac_unit_converter.html)  
+[USD Book](https://remedy-entertainment.github.io/USDBook/)
+
+---
+
+
 #### FAQ's and Common Problems
 
 Error: Cannot Nest Gprims: 
 **[Do Not Nest Gprims](https://openusd.org/release/glossary.html#usdglossary-gprim)**
+
+
 
