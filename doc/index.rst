@@ -19,7 +19,7 @@ HOMEWORK
 04/25/23
 ========
 
-| Please consider the links below and prepare to ask questions about the material during the meet up.
+| Please consider the material in links below and prepare to ask questions about it during our next meet up.
 
 `USDBook <https://remedy-entertainment.github.io/USDBook/>`_
 
