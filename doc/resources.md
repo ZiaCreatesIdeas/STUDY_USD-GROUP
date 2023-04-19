@@ -14,6 +14,7 @@ SideFx (Houdini) Definitions:
 
 Nvidia USD Resources: [USD, Hydra Resources](https://developer.nvidia.com/usd#resources)
 
+Mati's Github: [Mati's GitHub](https://github.com/matiascodesal/awesome-usd)
 
 ---
 
@@ -62,7 +63,7 @@ As demo'd with chess assets.
 
 ---
 
-#### Utilities  
+##### Utilities  
 [Isaac Unit Converter](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/ext_omni_isaac_unit_converter.html)  
 [USD Book](https://remedy-entertainment.github.io/USDBook/)
 

@@ -1,6 +1,6 @@
 
 
-# Defintions
+# Definitions
 
 - Stage
 - Arc Composition
