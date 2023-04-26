@@ -24,6 +24,7 @@ Mati's Github: [Mati's GitHub](https://github.com/matiascodesal/awesome-usd)
 **Dreamworks**
 [Zero to USD in 80 Days](https://research.dreamworks.com/wp-content/uploads/2020/01/Zero-to-USD-with-notes.pdf)
 
+**USD Working Group**
 [Instancing Explained](https://github.com/usd-wg/assets/blob/main/docs/asset-structure-guidelines.md)
 
 **Colin Kennedy's USD-Cookbook**
