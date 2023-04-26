@@ -21,6 +21,14 @@ Mati's Github: [Mati's GitHub](https://github.com/matiascodesal/awesome-usd)
 [LIVRPS](https://remedy-entertainment.github.io/USDBook/terminology/LIVRPS.html)
 [Composition Arcs](https://remedy-entertainment.github.io/USDBook/terminology/composition_arcs.html)
 
+**Dreamworks**
+[Zero to USD in 80 Days](https://research.dreamworks.com/wp-content/uploads/2020/01/Zero-to-USD-with-notes.pdf)
+
+[Instancing Explained](https://github.com/usd-wg/assets/blob/main/docs/asset-structure-guidelines.md)
+
+**Colin Kennedy's USD-Cookbook**
+[USD-Cookbook](https://github.com/ColinKennedy/USD-Cookbook/tree/master/plugins/variant_fallbacks)
+
 ---
 
 ##### Videos

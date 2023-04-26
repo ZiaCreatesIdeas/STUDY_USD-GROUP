@@ -29,6 +29,14 @@ HOMEWORK
 
 ================================================================================
 
+04/28/23
+========
+
+Special Event:
+
+`The Hitchhiker's Guide to the Industrial Metaverse <https://www.linkedin.com/events/thehitchhiker-sguidetotheindust7052224851960320000/>`_
+
+
 
 Table of contents:
 
