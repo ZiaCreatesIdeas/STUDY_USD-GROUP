@@ -9,6 +9,9 @@ Lists of helpful tutorials.
 
 Open USD Glossary of Terms: 
 **[openusd.org, Terms and Concepts](https://openusd.org/release/glossary.html)**\
+
+**[openusd.org, Instancing](https://openusd.org/release/glossary.html#usdglossary-instancing)**\
+
 SideFx (Houdini) Definitions: 
 **[SideFX, Houdini, USD Basics](https://www.sidefx.com/docs/houdini/solaris/usd.html)**
 
@@ -33,6 +36,11 @@ Mati's Github: [Mati's GitHub](https://github.com/matiascodesal/awesome-usd)
 ---
 
 ##### Videos
+
+
+**GM Explores Automated Workflows with USD:**
+[GM's GTC on USD](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-s51344/)
+
 
 **SideFX Primer**: 
 [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://youtu.be/Yp_TRVD3wjQ)
@@ -69,9 +77,10 @@ As demo'd with chess assets.
 
 ##### Exercises and DLI Courses
 
-- [USD Playground](https://wiki.aswf.io/display/WGUSD/USD+Playground)
+- [USD Playground Documentation](https://wiki.aswf.io/display/WGUSD/USD+Playground)
+- [USD Playground Interactive Demo ](https://usd-playground.netlify.app/)
 
-- [Getting Started with USD for Collaborative 3D Workflows](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/)
+- [Getting Started with USD for Collaborative 3D Workflows, DLI+S-FX-02+V1 ](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/)
 
 - [Fundamentals of Universal Scene Description | Jen and Mati, GTC March 2023](https://courses.nvidia.com/courses/course-v1:DLI+X-OV-14+V1/course/)
 

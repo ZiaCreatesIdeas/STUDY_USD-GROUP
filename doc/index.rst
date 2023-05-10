@@ -13,21 +13,11 @@ The USD Study Group is born of an interest of a variety of individuals to learn 
 
 ================================================================================
 
-HOMEWORK
+05/09/23
 ========
 
-04/25/23
-========
+We will discuss Payloads.
 
-| Please consider the material in links below and prepare to ask questions about it during our next meet up.
-
-`USDBook <https://remedy-entertainment.github.io/USDBook/>`_
-
-`LIVRPS <https://remedy-entertainment.github.io/USDBook/terminology/LIVRPS.html>`_
-
-`Composition Arcs <https://remedy-entertainment.github.io/USDBook/terminology/composition_arcs.html>`_
-
-================================================================================
 
 04/28/23
 ========
@@ -38,6 +28,17 @@ Special Event:
 
 =====
 
+| Please consider the material in links below.
+
+`USDBook <https://remedy-entertainment.github.io/USDBook/>`_
+
+`LIVRPS <https://remedy-entertainment.github.io/USDBook/terminology/LIVRPS.html>`_
+
+`Composition Arcs <https://remedy-entertainment.github.io/USDBook/terminology/composition_arcs.html>`_
+
+================================================================================
+
+
 Table of contents:
 
 .. toctree::
@@ -45,4 +46,5 @@ Table of contents:
 
    resources.md
    definitions.md
+   dli_DLI+S-FX-02+V1_basic.md
    credit.rst
