@@ -63,8 +63,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'USD STUDY'
-copyright = '2023, USD Study Group.'
-author = 'Zia'
+copyright = ': No Restrictions'
+author = 'USD Study Group'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

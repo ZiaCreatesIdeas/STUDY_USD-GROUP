@@ -7,31 +7,41 @@ Lists of helpful tutorials.
 
 ##### USD Documentation
 
-Open USD Glossary of Terms: 
-**[openusd.org, Terms and Concepts](https://openusd.org/release/glossary.html)**\
+**Pixar**  
+[Pixar Kitchen Set](https://openusd.org/release/dl_kitchen_set.html)
 
-**[openusd.org, Instancing](https://openusd.org/release/glossary.html#usdglossary-instancing)**\
+Open USD Glossary of Terms:   
+**[openusd.org, Terms and Concepts](https://openusd.org/release/glossary.html)**    
 
-SideFx (Houdini) Definitions: 
+**SideFx (Houdini)**   
 **[SideFX, Houdini, USD Basics](https://www.sidefx.com/docs/houdini/solaris/usd.html)**
 
-Nvidia USD Resources: [USD, Hydra Resources](https://developer.nvidia.com/usd#resources)
+**Nvidia USD Resources**   
+[USD and Hydra Resources](https://developer.nvidia.com/usd#resources)
 
-Mati's Github: [Mati's GitHub](https://github.com/matiascodesal/awesome-usd)
-
-**Animal Logic**
+**Animal Logic**  
 [USDBook](https://remedy-entertainment.github.io/USDBook/)
 [LIVRPS](https://remedy-entertainment.github.io/USDBook/terminology/LIVRPS.html)
 [Composition Arcs](https://remedy-entertainment.github.io/USDBook/terminology/composition_arcs.html)
 
-**Dreamworks**
+**Dreamworks**  
 [Zero to USD in 80 Days](https://research.dreamworks.com/wp-content/uploads/2020/01/Zero-to-USD-with-notes.pdf)
 
-**USD Working Group**
+**USD Working Group**  
 [Instancing Explained](https://github.com/usd-wg/assets/blob/main/docs/asset-structure-guidelines.md)
 
-**Colin Kennedy's USD-Cookbook**
+**Colin Kennedy's USD-Cookbook**  
 [USD-Cookbook](https://github.com/ColinKennedy/USD-Cookbook/tree/master/plugins/variant_fallbacks)
+
+---
+
+#### Github
+
+[Pixar USD examples](https://github.com/PixarAnimationStudios/USD/tree/release/extras/usd/examples/usdObj)
+
+[Weta Digitals USD examples](https://github.com/wetadigital/USDPluginExamples/tree/main/src/usdTriFileFormat)
+
+[Mati's GitHub](https://github.com/matiascodesal/awesome-usd)
 
 ---
 

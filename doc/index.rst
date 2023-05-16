@@ -13,32 +13,6 @@ The USD Study Group is born of an interest of a variety of individuals to learn 
 
 ================================================================================
 
-05/09/23
-========
-
-We will discuss Payloads.
-
-
-04/28/23
-========
-
-Special Event:
-
-`The Hitchhiker's Guide to the Industrial Metaverse <https://www.linkedin.com/events/thehitchhiker-sguidetotheindust7052224851960320000/>`_
-
-=====
-
-| Please consider the material in links below.
-
-`USDBook <https://remedy-entertainment.github.io/USDBook/>`_
-
-`LIVRPS <https://remedy-entertainment.github.io/USDBook/terminology/LIVRPS.html>`_
-
-`Composition Arcs <https://remedy-entertainment.github.io/USDBook/terminology/composition_arcs.html>`_
-
-================================================================================
-
-
 Table of contents:
 
 .. toctree::
