@@ -44,7 +44,7 @@ Open USD Glossary of Terms:
 
 [Mati's GitHub](https://github.com/matiascodesal/awesome-usd)
 
-[Pappa Chuck](https://github.com/boredengineering/Robots_for_Omniverse/tree/go1v2/openUSD_assets/UnitreeRobotics/go1v2)
+[Pappa Chucks Github](https://github.com/boredengineering/Robots_for_Omniverse/tree/go1v2/openUSD_assets/UnitreeRobotics/go1v2)
 
 ---
 
