@@ -33,6 +33,10 @@ Open USD Glossary of Terms:
 **Colin Kennedy's USD-Cookbook**  
 [USD-Cookbook](https://github.com/ColinKennedy/USD-Cookbook/tree/master/plugins/variant_fallbacks)
 
+
+**Pappa Chuck's Github**
+[bored engineer](https://github.com/boredengineering/Robots_for_Omniverse/tree/go1v2/openUSD_assets/UnitreeRobotics/go1v2)
+
 ---
 
 #### Github
