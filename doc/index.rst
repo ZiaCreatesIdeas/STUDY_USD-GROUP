@@ -11,7 +11,7 @@ The USD Study Group is born of an interest of a variety of individuals to learn 
 
 `Nandu's Google Sheet for the group <https://docs.google.com/spreadsheets/d/1864ILbgnNiBW2AABcraYibo0phcBrJ1DKWsEvqaklDI/edit?usp=sharing>`_
 
-`OpenUSD Study Group Weekly Meeting <https://us06web.zoom.us/meeting/register/tZEld-utrzouHtEHa2wiiJtIAA_gqKvI8YCI >`_
+`OpenUSD Study Group Weekly Meeting <https://us06web.zoom.us/meeting/register/tZEld-utrzouHtEHa2wiiJtIAA_gqKvI8YCI>`_
 
 
 ================================================================================
