@@ -11,6 +11,9 @@ The USD Study Group is born of an interest of a variety of individuals to learn 
 
 `Nandu's Google Sheet for the group <https://docs.google.com/spreadsheets/d/1864ILbgnNiBW2AABcraYibo0phcBrJ1DKWsEvqaklDI/edit?usp=sharing>`_
 
+`Nandu's Weekly Zoom Call <https://us06web.zoom.us/j/85802511445?pwd=bRz0NaA7sHJ5R751erMMFfwXQZ0mvV.1>`_
+
+
 ================================================================================
 
 Table of contents:

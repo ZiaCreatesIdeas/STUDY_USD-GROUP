@@ -34,6 +34,11 @@ Open USD Glossary of Terms:
 [USD-Cookbook](https://github.com/ColinKennedy/USD-Cookbook/tree/master/plugins/variant_fallbacks)
 
 
+**Mati's USD Notes**  
+[docs.google.com](https://docs.google.com/document/d/1F-ydwYhhtWBm6IxqW8crTKXK9E3Nn842hXVcuBgTV2s/edit?usp=drive_link)
+
+
+
 ---
 
 #### Github
