@@ -92,26 +92,6 @@ Lists of helpful tutorials.
 :::
 
 
-
-TEST
-
-* **Video 1:** 
-    * [Five Things to Know About USD](https://resources.nvidia.com/en-us-omniverse-usd/gtcspring21-s33132)
-
-* **Video 2:** 
-    * [Universal Scene Description (OpenUSD): 4 Superpowers to Get You Started](http://www.youtube.com/watch?v=1RnTSZK9SwM) 
-
-* **Video 3:** 
-    * [Universal Scene Description (OpenUSD): Composition and Layering](http://www.youtube.com/watch?v=zRyKI55qEZY)
-
-
-
-
-
-
-
-
-
 ##### USD Documentation
 
 **Pixar**  
