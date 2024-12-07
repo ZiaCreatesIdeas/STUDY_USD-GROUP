@@ -1,9 +1,11 @@
 
 
 (resources)=
-#### Resources
+# RESOURCES 
 
-Lists of helpful tutorials.
+Lists of helpful tutorials below.
+
+
 
 ##### OPEN USD 101
 
@@ -25,12 +27,6 @@ Lists of helpful tutorials.
 - [Hello USD Stage](https://docs.omniverse.nvidia.com/workflows/latest/openusd-developer/hello-usd-stage.html) 
 
 :::
-
-
-
-
-
-
 
 
 :::{card} Getting Started with USD
@@ -91,6 +87,7 @@ Lists of helpful tutorials.
 
 :::
 
+---
 
 ##### USD Documentation
 
@@ -121,11 +118,7 @@ Open USD Glossary of Terms:
 [USD-Cookbook](https://github.com/ColinKennedy/USD-Cookbook/tree/master/plugins/variant_fallbacks)
 
 
-**Mati's USD Notes**  
-[docs.google.com](https://docs.google.com/document/d/1F-ydwYhhtWBm6IxqW8crTKXK9E3Nn842hXVcuBgTV2s/edit?usp=drive_link)
-
-
-
+---
 
 #### Github
 
@@ -137,7 +130,7 @@ Open USD Glossary of Terms:
 
 [Pappa Chucks Github](https://github.com/boredengineering/Robots_for_Omniverse/tree/go1v2/openUSD_assets/UnitreeRobotics/go1v2)
 
-
+---
 
 ##### Videos
 
@@ -174,13 +167,11 @@ As demo'd with chess assets.
 <p><a href="https://vimeo.com/211022588">USD: Building Asset Pipelines</a> from <a href="https://vimeo.com/user14728591"> Matt Kuruc | Pixar Graphics, ~1997 </a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
-
-**Nvidia DLI Teaching Kits**: [Omniverse USD Data Modeling | Aaron Luk | Nvidia GTC, Feb 2023](https://www.nvidia.com/en-us/on-demand/session/dliteachingkit-dlitk1017/)
-
-
+---
 
 ##### Exercises and DLI Courses
 
+- [Omniverse USD Data Modeling | Aaron Luk | Nvidia GTC, Feb 2023](https://www.nvidia.com/en-us/on-demand/session/dliteachingkit-dlitk1017/)
 - [USD Playground Documentation](https://wiki.aswf.io/display/WGUSD/USD+Playground)
 - [USD Playground Interactive Demo ](https://usd-playground.netlify.app/)
 
@@ -189,13 +180,14 @@ As demo'd with chess assets.
 - [Fundamentals of Universal Scene Description | Jen and Mati, GTC March 2023](https://courses.nvidia.com/courses/course-v1:DLI+X-OV-14+V1/course/)
 
 
+---
 
 ##### Utilities  
 [Isaac Unit Converter](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/ext_omni_isaac_unit_converter.html)  
 [USD Book](https://remedy-entertainment.github.io/USDBook/)
 
 
-
+---
 
 #### FAQ's and Common Problems
 
