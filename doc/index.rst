@@ -7,12 +7,13 @@
 USD Study Group
 =========================
 
-The objective of the OpenUSD Study Group is to explore and understand the capabilities of OpenUSD, share critical learning resources, and provide members an opportunity to find answers to their most challenging questions. Furthermore, members can share insights about various 3D tools and applications built on OpenUSD across diverse fields such as entertainment, industry, architecture, and more. We aim to foster a creative and collaborative environment where members can freely exchange knowledge, and deepen their expertise in OpenUSD.
+| The objective of the OpenUSD Study Group is to explore and understand the capabilities of OpenUSD, share critical learning resources, and provide members an opportunity to find answers to their most challenging questions.
+
+| Furthermore, members can share insights about various 3D tools and applications built on OpenUSD across diverse fields such as entertainment, industry, architecture, and more. We aim to foster a creative and collaborative environment where members can freely exchange knowledge, and deepen their expertise in OpenUSD.
 
 We originate from NVIDIA's Omniverse Discord channel.
 
-
-`OpenUSD Study Group Weekly Meeting <https://us06web.zoom.us/meeting/register/tZEld-utrzouHtEHa2wiiJtIAA_gqKvI8YCI>`_
+`OpenUSD Study Group Weekly Meeting <https://us06web.zoom.us/meeting/register/tZEld-utrzouHtEHa2wiiJtIAA_gqKvI8YCI>`_, Tuesdays, 5:00 pm (EST).
 
 
 ================================================================================
