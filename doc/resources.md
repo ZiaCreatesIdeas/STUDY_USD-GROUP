@@ -134,7 +134,7 @@ Open USD Glossary of Terms:
 
 ---
 
-##### Videos
+#### Videos
 
 
 **GM Explores Automated Workflows with USD:**
@@ -171,7 +171,7 @@ As demo'd with chess assets.
 
 ---
 
-##### Exercises and DLI Courses
+#### Exercises and DLI Courses
 
 - [Omniverse USD Data Modeling | Aaron Luk | Nvidia GTC, Feb 2023](https://www.nvidia.com/en-us/on-demand/session/dliteachingkit-dlitk1017/)
 - [USD Playground Documentation](https://wiki.aswf.io/display/WGUSD/USD+Playground)
@@ -184,7 +184,7 @@ As demo'd with chess assets.
 
 ---
 
-##### Utilities  
+#### Utilities  
 [Isaac Unit Converter](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/ext_omni_isaac_unit_converter.html)  
 [USD Book](https://remedy-entertainment.github.io/USDBook/)
 
