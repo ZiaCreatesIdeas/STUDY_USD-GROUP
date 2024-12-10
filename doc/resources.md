@@ -130,6 +130,8 @@ Open USD Glossary of Terms:
 
 [Pappa Chucks Github](https://github.com/boredengineering/Robots_for_Omniverse/tree/go1v2/openUSD_assets/UnitreeRobotics/go1v2)
 
+[USD-Plugin-Samples](https://github.com/NVIDIA-Omniverse/usd-plugin-samples)
+
 ---
 
 ##### Videos
