@@ -13,8 +13,9 @@ USD Study Group
 
 We originate from NVIDIA's Omniverse Discord channel.
 
-`OpenUSD Study Group Weekly Meeting <https://us06web.zoom.us/meeting/register/tZEld-utrzouHtEHa2wiiJtIAA_gqKvI8YCI>`_, Tuesdays, 5:00 pm (EST).
-
+`OpenUSD Study Group Weekly Meeting <https://us06web.zoom.us/j/81650728939>`_, Friday 12:00 pm (EST).
+  
+Updated: 08/19/25
 
 ================================================================================
 
