@@ -14,7 +14,7 @@ USD Study Group
 We originate from NVIDIA's Omniverse Discord channel.
 
 | `OpenUSD Study Group Weekly Meeting <https://us06web.zoom.us/j/81650728939>`_, Friday 12:00 pm (EST).
-| Day light savings time(fall back) begins Nov. 2nd.
+| Daylight savings time(fall back) begins Nov. 2nd.
 
   
 Updated: 09/12/25
